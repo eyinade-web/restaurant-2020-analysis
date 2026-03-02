@@ -31,7 +31,7 @@ independence100	Top performing independent restaurants
 
 future50	Emerging restaurant brands
 
-Key columns analyzed:
+# Key columns analyzed:
 
 restaurant
 
