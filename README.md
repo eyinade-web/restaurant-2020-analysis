@@ -26,7 +26,9 @@ The dataset contains three tables:
 
 Table	Description
 top_250	Large restaurant chains ranked by revenue
+
 independence100	Top performing independent restaurants
+
 future50	Emerging restaurant brands
 
 Key columns analyzed:
